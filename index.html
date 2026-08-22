@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Thirty health and discipline posters inspired by iconic Tamil Nadu landscapes.">
+  <title>Doctor Farmer — Tamil Nadu, Built Different</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav" aria-label="Primary navigation">
+      <a class="brand" href="#top"><span class="brand-dot"></span>DOCTOR FARMER</a>
+      <a class="nav-link" href="#posters">Explore all 30 <span>↓</span></a>
+    </nav>
+    <div class="hero-copy" id="top">
+      <p class="eyebrow">A 30-part visual series · Tamil Nadu</p>
+      <h1>HEALTH IS<br><em>BUILT DIFFERENT.</em></h1>
+      <p class="intro">Ancient places. Hard truths. Thirty reminders that your body, habits and future are built one decision at a time.</p>
+    </div>
+    <div class="hero-poster" aria-hidden="true"><img src="assets/01.png" alt=""></div>
+    <div class="scroll-note">SCROLL TO EXPLORE <span>↘</span></div>
+  </header>
+
+  <main id="posters">
+    <section class="collection" aria-labelledby="collection-title">
+      <div class="section-head">
+        <div><p class="eyebrow">The complete collection</p><h2 id="collection-title">30 PLACES.<br>30 WAKE-UP CALLS.</h2></div>
+        <p class="section-copy">From temple stone to coastal wind, every place has something to teach about discipline.</p>
+      </div>
+      <section class="month-library" aria-labelledby="months-title">
+        <div class="month-library-head"><div><p class="eyebrow">Monthly archive</p><h3 id="months-title">CHOOSE A COLLECTION</h3></div><p>Every month has its own card and its own set of 30 scheduled posts.</p></div>
+        <div class="month-cards" id="month-cards"></div>
+      </section>
+      <div class="schedule-bar">
+        <div><label>Selected collection</label><strong id="selected-month"></strong><input id="start-date" type="hidden" value="2026-09-01"></div>
+        <p><strong id="schedule-range"></strong><span id="schedule-note"></span></p>
+      </div>
+      <div class="filters" role="toolbar" aria-label="Filter scheduled poster collection">
+        <button class="filter active" data-filter="all">Full schedule <span>30</span></button>
+        <button class="filter" data-filter="heritage">Heritage <span>7</span></button>
+        <button class="filter" data-filter="hills">Hills & forests <span>13</span></button>
+        <button class="filter" data-filter="water">Water & coast <span>10</span></button>
+      </div>
+      <div id="calendar" aria-live="polite"></div>
+      <p class="empty" id="empty" hidden>No posters match this filter.</p>
+    </section>
+  </main>
+
+  <footer><p>© 2026 @iamdoctorfarmer</p><p>HEALTH · DISCIPLINE · TAMIL NADU</p></footer>
+
+  <dialog id="viewer" aria-label="Poster viewer">
+    <button class="close" aria-label="Close viewer">×</button>
+    <button class="arrow prev" aria-label="Previous poster">←</button>
+    <article class="insta-post">
+      <div class="insta-media"><img id="viewer-image" alt=""></div>
+      <div class="insta-panel">
+        <header class="insta-user"><img src="assets/profile.png" alt="Doctor Farmer"><div><strong>@iamdoctorfarmer</strong><span id="viewer-location"></span></div><button aria-label="More options">•••</button></header>
+        <div class="insta-caption"><img src="assets/profile.png" alt=""><div class="caption-body"><p class="appointment"><strong>@iamdoctorfarmer</strong> For appointments:<br><a href="tel:+918925954625">+91 89259 54625</a><br><a href="tel:+917200424271">+91 72004 24271</a></p><p id="viewer-caption"></p></div></div>
+        <div class="insta-actions" aria-label="Post actions"><button class="like" aria-label="Like this post">♡</button><button aria-label="Comment">◇</button><button aria-label="Share">⌁</button><button class="copy-caption" type="button" aria-label="Copy complete caption and download this poster"><span aria-hidden="true">⇩</span> Copy + download</button><button class="save" aria-label="Save post">▱</button></div>
+        <div class="insta-details"><strong id="viewer-count"></strong><span id="viewer-title"></span><time id="viewer-date"></time></div>
+      </div>
+    </article>
+    <button class="arrow next" aria-label="Next poster">→</button>
+  </dialog>
+  <script src="app.js"></script>
+</body>
+</html>
