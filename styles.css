@@ -110,18 +110,20 @@ dialog[open]{display:grid;grid-template-columns:64px minmax(0,1080px) 64px;justi
 .video-carousel-entry{display:grid;grid-template-columns:minmax(280px,420px) minmax(0,1fr);gap:24px;align-items:start;padding-bottom:38px;border-bottom:1px solid #d8d3c8}
 .video-carousel-entry:last-child{padding-bottom:0;border-bottom:0}
 .video-carousel-cover{margin:0;background:#fff;border:1px solid #d8d3c8;border-radius:14px;overflow:hidden;box-shadow:0 10px 30px #17171112}
-.video-carousel-cover img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover}
+.video-carousel-cover img{display:block;width:100%;height:auto}
 .video-carousel-cover figcaption{width:100%;padding:18px;display:block;text-transform:none;letter-spacing:0}
 .video-carousel-cover figcaption strong,.video-carousel-cover figcaption small{display:block}
 .video-carousel-cover figcaption strong{font:700 18px/1.2 var(--sans)}
 .video-carousel-cover figcaption small{margin-top:6px;color:var(--muted);font-size:10px}
-.video-carousel-download{display:flex;justify-content:space-between;align-items:center;margin-top:15px;padding:12px 14px;border:1px solid #7560df;border-radius:8px;color:#654ccf;text-decoration:none;font:700 11px var(--sans)}
 .video-caption-stack{display:grid;gap:16px}
 .caption-panel{padding:22px;border:1px solid #d8d3c8;border-radius:14px;background:#fff}
 .caption-panel-head{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:16px}
 .caption-panel-head strong{font:800 22px var(--cond);text-transform:uppercase}
 .caption-copy{border:1px solid #6b50e1;border-radius:8px;background:#fff;color:#5f46ca;padding:10px 13px;font:700 10px var(--sans);cursor:pointer}
+.caption-download-copy{min-width:190px}
+.caption-copy:disabled{cursor:wait;opacity:.72}
 .caption-copy:hover,.caption-copy:focus-visible,.caption-copy.copied{background:#6046cd;color:#fff;outline:none}
 .caption-text{margin:0;white-space:pre-line;color:#35343a;font-size:13px;line-height:1.7}
 .caption-text.video-short{font-size:22px;font-weight:700;line-height:1.45;color:#171711}
 @media screen and (max-width:900px){.video-carousel-entry{grid-template-columns:1fr}.video-carousel-cover{max-width:430px}}
+@media screen and (max-width:576px){.caption-panel-head{align-items:stretch;flex-direction:column}.caption-copy,.caption-download-copy{min-width:0;width:100%;min-height:44px}}
