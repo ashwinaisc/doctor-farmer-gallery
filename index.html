@@ -8,38 +8,88 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260824-10">
+  <link rel="stylesheet" href="styles.css?v=20260825-01">
 </head>
 <body>
-  <header class="hero">
+  <header class="hero" id="channels">
     <nav class="nav" aria-label="Primary navigation">
-      <a class="brand" href="#channels"><span class="brand-dot"></span>DOCTOR FARMER</a>
-      <a class="nav-link" href="#channels">View channels <span>↓</span></a>
+      <a class="brand" href="#channels"><span class="brand-dot"></span>CONTENT STUDIO</a>
+      <a class="nav-link" href="#channels">Channels <span>↓</span></a>
     </nav>
     <div class="hero-copy" id="top">
-      <p class="eyebrow">A 30-part visual series · Tamil Nadu</p>
-      <h1>HEALTH IS<br><em>BUILT DIFFERENT.</em></h1>
-      <p class="intro">Ancient places. Hard truths. Thirty reminders that your body, habits and future are built one decision at a time.</p>
+      <div class="dashboard-intro">
+        <p class="eyebrow">Social content workspace</p>
+        <h1>CONTENT<br><em>DASHBOARD.</em></h1>
+        <p class="intro">Choose a channel to review its monthly calendar, captions and ready-to-download Instagram posts.</p>
+      </div>
+      <div class="dashboard-summary" aria-label="Content overview">
+        <span><strong>3</strong><small>Channels</small></span>
+        <span><strong>151</strong><small>Posts ready</small></span>
+        <span><strong>5</strong><small>Months live</small></span>
+      </div>
     </div>
     <div class="hero-poster" aria-hidden="true"><img src="assets/01.png" alt=""></div>
-    <div class="scroll-note">SCROLL TO EXPLORE <span>↘</span></div>
   </header>
 
-  <main id="channels">
+  <main id="dashboard-content">
     <section class="channel-dashboard" id="channel-dashboard" aria-labelledby="channels-title">
       <div class="channel-dashboard-head">
         <div><p class="eyebrow">Content dashboard</p><h2 id="channels-title">CHOOSE YOUR<br>CHANNEL.</h2></div>
         <p>Select a brand to open its monthly content calendar.</p>
       </div>
       <div class="channel-grid">
-        <a class="channel-card channel-doctor" href="#doctor-farmer"><span class="channel-index">01</span><span class="channel-status">Calendar ready</span><strong>DOCTOR<br>FARMER</strong><span class="channel-action">Open calendar <b>→</b></span></a>
-        <a class="channel-card channel-fofitos" href="#fofitos"><span class="channel-index">02</span><span class="channel-status">1 scheduled poster</span><strong>FOFITOS</strong><span class="channel-action">Open calendar <b>→</b></span></a>
-        <a class="channel-card channel-longer" href="#longer-life"><span class="channel-index">03</span><span class="channel-status">Empty calendar</span><strong>LONGER<br>LIFE</strong><span class="channel-action">Open calendar <b>→</b></span></a>
+        <a class="channel-card channel-doctor" href="#doctor-farmer">
+          <span class="channel-logo"><img src="assets/logos/doctor-farmer.png" alt="Doctor Farmer"></span>
+          <strong>Doctor Farmer</strong>
+          <span class="channel-status"><i aria-hidden="true"></i> Active</span>
+          <span class="channel-divider" aria-hidden="true"></span>
+          <span class="channel-detail"><span class="channel-detail-icon" aria-hidden="true">▣</span><span><b>5 months available</b><small>August–December 2026</small></span></span>
+          <span class="channel-detail"><span class="channel-detail-icon" aria-hidden="true">◷</span><span><b>Latest activity</b><small>December 31, 2026</small></span></span>
+          <span class="channel-action">Open calendar <b>→</b></span>
+        </a>
+        <a class="channel-card channel-fofitos" href="#fofitos">
+          <span class="channel-logo"><img src="assets/logos/fofitos.png" alt="FOFITOS — Nothing to Hide"></span>
+          <strong>FOFITOS</strong>
+          <span class="channel-status"><i aria-hidden="true"></i> Active</span>
+          <span class="channel-divider" aria-hidden="true"></span>
+          <span class="channel-detail"><span class="channel-detail-icon" aria-hidden="true">▣</span><span><b>2 months available</b><small>August–September 2026</small></span></span>
+          <span class="channel-detail"><span class="channel-detail-icon" aria-hidden="true">◷</span><span><b>Latest activity</b><small>September 16, 2026</small></span></span>
+          <span class="channel-action">Open calendar <b>→</b></span>
+        </a>
+        <a class="channel-card channel-longer" href="#longer-life">
+          <span class="channel-logo"><img src="assets/logos/longer-life-wellness.png" alt="Longer Life Wellness by Doctor Farmer"></span>
+          <strong>Longer Life Wellness</strong>
+          <span class="channel-status channel-status-waiting"><i aria-hidden="true"></i> Awaiting content</span>
+          <span class="channel-divider" aria-hidden="true"></span>
+          <span class="channel-detail"><span class="channel-detail-icon" aria-hidden="true">▣</span><span><b>0 months available</b><small>Calendar is ready</small></span></span>
+          <span class="channel-detail"><span class="channel-detail-icon" aria-hidden="true">◷</span><span><b>Latest activity</b><small>No posts added yet</small></span></span>
+          <span class="channel-action">Open calendar <b>→</b></span>
+        </a>
       </div>
     </section>
 
-    <section class="collection" id="channel-workspace" aria-labelledby="collection-title" hidden>
+    <section class="content-type-page" id="content-type-page" aria-labelledby="content-type-title" hidden>
       <a class="back-to-channels" href="#channels">← All channels</a>
+      <div class="content-type-head">
+        <div><p class="eyebrow">Choose content format</p><h2 id="content-type-title">DOCTOR FARMER</h2></div>
+        <p id="content-type-note">Select the type of content you want to manage.</p>
+      </div>
+      <div class="content-type-grid">
+        <a class="content-type-card type-posts" id="content-type-posts" href="#doctor-farmer-posts"><span class="type-icon" aria-hidden="true">▦</span><small>Available now</small><strong>Posts</strong><p>Open the monthly poster calendar, captions and downloads.</p><span class="type-action">Open posts <b>→</b></span></a>
+        <a class="content-type-card" id="content-type-reels" href="#doctor-farmer-reels"><span class="type-icon" aria-hidden="true">▶</span><small>Ready for content</small><strong>Reels</strong><p>Organise short-form videos, scripts and publishing dates.</p><span class="type-action">Open reels <b>→</b></span></a>
+        <a class="content-type-card" id="content-type-carousels" href="#doctor-farmer-carousels"><span class="type-icon" aria-hidden="true">▤</span><small>Ready for content</small><strong>Carousels</strong><p>Manage multi-slide stories, captions and downloadable assets.</p><span class="type-action">Open carousels <b>→</b></span></a>
+      </div>
+    </section>
+
+    <section class="format-empty-page" id="format-empty-page" aria-labelledby="format-empty-title" hidden>
+      <a class="back-to-channels" id="format-back" href="#doctor-farmer">← Content types</a>
+      <p class="eyebrow" id="format-brand">Doctor Farmer</p>
+      <h2 id="format-empty-title">REELS</h2>
+      <p>No content has been added here yet. This workspace is ready for future uploads.</p>
+    </section>
+
+    <section class="collection" id="channel-workspace" aria-labelledby="collection-title" hidden>
+      <a class="back-to-channels" href="#doctor-farmer">← Back to content types</a>
       <div class="section-head">
         <div><p class="eyebrow">The complete collection</p><h2 id="collection-title">30 PLACES.<br>30 WAKE-UP CALLS.</h2></div>
         <p class="section-copy">From temple stone to coastal wind, every place has something to teach about discipline.</p>
@@ -65,7 +115,7 @@
     </section>
 
     <section class="empty-channel-page collection" id="empty-channel" aria-labelledby="empty-channel-title" hidden>
-      <a class="back-to-channels" href="#channels">← All channels</a>
+      <a class="back-to-channels" id="posts-back" href="#fofitos">← Back to content types</a>
       <div class="section-head"><div><p class="eyebrow">The complete collection</p><h2 id="empty-channel-title"></h2></div><p class="section-copy" id="empty-channel-note">No posts have been added to this channel yet.</p></div>
       <section class="month-library" aria-labelledby="channel-months-title">
         <div class="month-library-head"><div><p class="eyebrow">Monthly archive</p><h3 id="channel-months-title">CHOOSE A COLLECTION</h3></div><p>Every month has its own card and scheduled Instagram posts.</p></div>
@@ -95,6 +145,6 @@
     </article>
     <button class="arrow next" aria-label="Next poster">→</button>
   </dialog>
-  <script src="app.js?v=20260824-13"></script>
+  <script src="app.js?v=20260825-02"></script>
 </body>
 </html>
