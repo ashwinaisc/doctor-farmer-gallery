@@ -120,6 +120,11 @@ dialog[open]{display:grid;grid-template-columns:64px minmax(0,1080px) 64px;justi
 .caption-panel-head{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:16px}
 .caption-panel-head strong{font:800 22px var(--cond);text-transform:uppercase}
 .caption-actions{display:flex;align-items:center;justify-content:flex-end;gap:10px;flex-wrap:wrap}
+.download-group{position:relative}
+.download-options{position:absolute;z-index:8;right:0;top:calc(100% + 8px);width:210px;padding:8px;border:1px solid #d8d3c8;border-radius:10px;background:#fff;box-shadow:0 14px 34px rgba(23,23,17,.18)}
+.download-options[hidden]{display:none}
+.download-options a{display:block;padding:11px 12px;border-radius:7px;color:#3f2aa0;font:700 11px var(--sans);text-decoration:none}
+.download-options a:hover,.download-options a:focus-visible{background:#eeeafe;color:#2d1c86;outline:none}
 .caption-copy{border:1px solid #6b50e1;border-radius:8px;background:#fff;color:#5f46ca;padding:10px 13px;font:700 10px var(--sans);cursor:pointer}
 .caption-download-copy{min-width:210px}
 .caption-copy:disabled{cursor:wait;opacity:.72}
@@ -131,4 +136,4 @@ dialog[open]{display:grid;grid-template-columns:64px minmax(0,1080px) 64px;justi
 .video-caption-option-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px}
 .video-caption-option-head small{font:800 10px var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
 @media screen and (max-width:900px){.video-carousel-entry{grid-template-columns:1fr}.video-carousel-cover{max-width:430px}}
-@media screen and (max-width:576px){.caption-panel-head{align-items:stretch;flex-direction:column}.caption-actions{display:grid;grid-template-columns:1fr}.caption-copy,.caption-download-copy{min-width:0;width:100%;min-height:44px}.video-caption-options{grid-template-columns:1fr}.video-caption-option-head{align-items:stretch;flex-direction:column}}
+@media screen and (max-width:576px){.caption-panel-head{align-items:stretch;flex-direction:column}.caption-actions{display:grid;grid-template-columns:1fr}.download-group{width:100%}.download-options{position:static;width:100%;margin-top:8px;box-shadow:none}.caption-copy,.caption-download-copy{min-width:0;width:100%;min-height:44px}.video-caption-options{grid-template-columns:1fr}.video-caption-option-head{align-items:stretch;flex-direction:column}}
