@@ -312,6 +312,61 @@ const doctorVideoCarousels=[
   source:'P1012696-esv2-50p-bg-10p-music-10p.srt',
   caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nFrom an HbA1c of 13.1 and blood sugar readings of 301 fasting and 321 after food, his journey moved rapidly after a 21-day detox and consistent food changes. He reports HbA1c reaching 8.1 within a month and later 5.3—the normal-range result that made him want to celebrate. 🏆🎉\n\nHis experience highlights the power of learning, family support, and committed action. Watch and share this journey with someone who needs motivation. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #bloodsugarcontrol #diabetesmanagement #healthyfood #detoxjourney #familysupport #healthtransformation #wellness #lifestylechanges`,
   videoCaptions:[`HbA1c 13.1 முதல்\n5.3 வரை உணவால் வெற்றி`,`21 days detox\nBlood sugar கட்டுப்பாட்டை மீட்டது`]
+ },
+ {
+  title:'Jeyakumar — HbA1c Below 5.5',
+  image:'https://drive.google.com/thumbnail?id=1HMrRRBghdVavmNzYAKS1zjDW9uTnP-Ld&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1HMrRRBghdVavmNzYAKS1zjDW9uTnP-Ld&export=download&confirm=t',
+  imageName:'2025_12.png',
+  video:'https://drive.usercontent.google.com/download?id=1YO9_qhquH3eHttkwtcf8w6JGP-1-zUsR&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1RmhFIDKW2E41Ku5Z1uLrjBNmEmpcfRN9&export=download&confirm=t',
+  source:'2025_12.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nJeyakumar describes a clear difference between life before and after joining My Health School. With regular guidance and consistent follow-through, he reports that hospital visits and medical expenses reduced significantly—and an HbA1c once measured at 6.5 came below 5.5. 🏆❤️\n\nHis award is proof that steady learning and committed action can rebuild confidence. Watch his journey and share it with someone who needs encouragement. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #bloodsugarcontrol #healthjourney #healthyhabits #healthcoach #medicalexpenses #diabetesawareness #wellness #lifestylechanges`,
+  videoCaptions:[`HbA1c 6.5 முதல்\n5.5 கீழே வந்த வெற்றி`,`Hospital செலவு குறைந்தது\nவாழ்க்கையில் நம்பிக்கை மீண்டும் மலர்ந்தது`]
+ },
+ {
+  title:'Life Given Back — Award Journey',
+  image:'https://drive.google.com/thumbnail?id=1Th1lJpDJ3iNfYVHoZb8CD5ntrzD6CX0S&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1Th1lJpDJ3iNfYVHoZb8CD5ntrzD6CX0S&export=download&confirm=t',
+  imageName:'2025_62.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1sXhAytL7fW7qaVNeSjov0qt-gvjLKcG3&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1LRkyXfNTNLthkv67jT9jubGVOaGzvSO4&export=download&confirm=t',
+  source:'2025_62.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nShe describes her health transformation as receiving her life back. Her husband’s support, mindset training, and implementing almost everything she learned helped her move from uncertainty to confidence—and made this award a deeply proud moment. 🏆💪\n\nHer message is to learn with commitment, act boldly, and never underestimate the value of health awareness. Watch and share her inspiring journey. 🙌\n\n#doctorfarmer #myhealthschool #healthtransformation #mindset #familysupport #healthyhabits #healthawareness #consistency #confidence #motivation #wellness #lifestylechanges`,
+  videoCaptions:[`திரும்ப கிடைத்த வாழ்க்கை\nமன உறுதியால் இன்று மலர்ந்தது`,`99% implementation\nஆரோக்கிய வெற்றியின் பாதையை இன்று திறந்தது`]
+ },
+ {
+  title:'HbA1c 13.1 — A New Beginning',
+  image:'https://drive.google.com/thumbnail?id=1bWVYQulfZHvVCJysMUh70u4k3xBRdXBM&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1bWVYQulfZHvVCJysMUh70u4k3xBRdXBM&export=download&confirm=t',
+  imageName:'2025_66.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1rZ4ehRt9XIj3iF8g_ashtIXiaoSSiIy2&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1SidUmZFED_QbkCP89dDQ2_OhsVWoqvsM&export=download&confirm=t',
+  source:'2025_66.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nA year earlier, her health made even getting in and out of an auto difficult. Starting with an HbA1c of 13.1, she followed the learning, rebuilt her food awareness, strengthened her mindset, and reports coming out of the disease with renewed energy. Receiving the award on her 32nd wedding anniversary made the moment even more meaningful. 🏆❤️\n\nWatch this powerful journey and share it with someone who needs courage to continue. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #healthtransformation #foodawareness #mindset #consistency #familyhealth #diabetesawareness #wellness #lifestylechanges`,
+  videoCaptions:[`HbA1c 13.1 இருந்தும்\nConsistency புதிய வாழ்க்கையை தந்தது`,`உடலும் மனமும் மாறியது\nவிழிப்புணர்வு குடும்பத்தையும் இன்று மாற்றியது`]
+ },
+ {
+  title:'68 Years Strong — Award Journey',
+  image:'https://drive.google.com/thumbnail?id=1sD_llBBkrK3yKVeIsNhwUqZwALhbd-og&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1sD_llBBkrK3yKVeIsNhwUqZwALhbd-og&export=download&confirm=t',
+  imageName:'2025_132.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1u12ApvgZxaLEUWBBYjqIqk_TVVevuAj8&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1yMHP4I7ImIfcDkHKZ-855XGoYMs44bdF&export=download&confirm=t',
+  source:'2025_132.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter living with diabetes for 20–25 years, his tablets had increased from two to seven and symptoms such as foot numbness and reduced vision created real fear. At age 68, he reports HbA1c reaching 6.4, symptoms improving, and tablets reducing from seven to two through consistent food changes, meditation, guidance, and family support. 🏆🌱\n\nHis journey shows that age does not have to stop meaningful progress. Watch and share his inspiring story. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #diabetesmanagement #healthyaging #meditation #familysupport #healthcoach #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`7 Tablets முதல்\n2 Tablets வரை குறைந்தது`,`68 வயதிலும் HbA1c\n6.4 என்ற முன்னேற்றம் சாத்தியம்`]
+ },
+ {
+  title:'Aruvi Selvan Vijayakumar — Healthier Naturally',
+  image:'https://drive.google.com/thumbnail?id=1_eXSZ2uSq1TEDkCTrQ_KMpNpRnR6CHg8&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1_eXSZ2uSq1TEDkCTrQ_KMpNpRnR6CHg8&export=download&confirm=t',
+  imageName:'B017C006_250906CO.png',
+  video:'https://drive.usercontent.google.com/download?id=1Et68TEkmGDfLxYH84syBfIWuUUJctJuM&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1ipKbrjjLrJ7kyknB8vQvS-8tUusHJo6i&export=download&confirm=t',
+  source:'B017C006_250906CO.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter five years of diabetes tablets, Aruvi Selvan Vijayakumar began following natural food and exercise guidance consistently. He reports diabetes and thyroid medicines reducing, a natural weight reduction of 1.5 kg, and monthly medical expenses falling from ₹3,000 to ₹1,000. 🏆💚\n\nHis journey is a reminder that steady lifestyle changes can create progress across many areas of health. Watch and share it with someone ready to begin. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #thyroidhealth #weightlossjourney #medicalexpenses #healthyfood #exercise #healthcoach #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`Diabetes Thyroid Tablets\nகுறைந்தது வாழ்க்கை இலகுவாக மாறியது`,`₹3000 மருத்துவ செலவு\n₹1000 ஆக இன்று குறைந்தது`]
  }
 ];
 let current=0,visible=[...posters.keys()],activeFilter='all',viewerMode='doctor';
