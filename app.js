@@ -359,9 +359,9 @@ const doctorVideoCarousels=[
  },
  {
   title:'Aruvi Selvan Vijayakumar — Healthier Naturally',
-  image:'https://drive.google.com/thumbnail?id=1_eXSZ2uSq1TEDkCTrQ_KMpNpRnR6CHg8&sz=w1600',
-  imageDownload:'https://drive.usercontent.google.com/download?id=1_eXSZ2uSq1TEDkCTrQ_KMpNpRnR6CHg8&export=download&confirm=t',
-  imageName:'B017C006_250906CO.png',
+  image:'https://drive.google.com/thumbnail?id=19_I1K6Chwwov0ajlmzou4WUZx3y5cXBr&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=19_I1K6Chwwov0ajlmzou4WUZx3y5cXBr&export=download&confirm=t',
+  imageName:'B017C006_250906CO.jpg',
   video:'https://drive.usercontent.google.com/download?id=1Et68TEkmGDfLxYH84syBfIWuUUJctJuM&export=download&confirm=t',
   srt:'https://drive.usercontent.google.com/download?id=1ipKbrjjLrJ7kyknB8vQvS-8tUusHJo6i&export=download&confirm=t',
   source:'B017C006_250906CO.srt',
