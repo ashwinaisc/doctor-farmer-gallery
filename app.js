@@ -367,6 +367,61 @@ const doctorVideoCarousels=[
   source:'B017C006_250906CO.srt',
   caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter five years of diabetes tablets, Aruvi Selvan Vijayakumar began following natural food and exercise guidance consistently. He reports diabetes and thyroid medicines reducing, a natural weight reduction of 1.5 kg, and monthly medical expenses falling from ₹3,000 to ₹1,000. 🏆💚\n\nHis journey is a reminder that steady lifestyle changes can create progress across many areas of health. Watch and share it with someone ready to begin. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #thyroidhealth #weightlossjourney #medicalexpenses #healthyfood #exercise #healthcoach #healthtransformation #wellness #lifestylechanges`,
   videoCaptions:[`Diabetes Thyroid Tablets\nகுறைந்தது வாழ்க்கை இலகுவாக மாறியது`,`₹3000 மருத்துவ செலவு\n₹1000 ஆக இன்று குறைந்தது`]
+ },
+ {
+  title:'Three Months Beyond Insulin — Award Journey',
+  image:'https://drive.google.com/thumbnail?id=1BaLw9p5wxW4kUDHLzK9XzHnhCYJHnq50&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1BaLw9p5wxW4kUDHLzK9XzHnhCYJHnq50&export=download&confirm=t',
+  imageName:'2025_52.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1mMh4NhFjN36BuQBdf97WgWW1Kw4J3Nxk&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1nqmIixGY1qEah-qlCLpd_O3Tg__OLPcs&export=download&confirm=t',
+  source:'2025_52.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter seven to eight years with diabetes and insulin, he says three months of committed lifestyle changes helped him stop insulin and other medicines under guidance. At 66, regular exercise, yoga, and a calmer mind have made him feel active, free, and hopeful again. 🏆💪\n\nHis goal is now to help more friends and families learn healthier habits. Watch his journey and share it with someone who needs hope. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #insulin #diabetesmanagement #activelifestyle #yoga #mindset #healthyhabits #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`மூன்றே மாதங்களில் Insulin நிறுத்திய\nஆரோக்கிய மாற்றத்தின் வெற்றி`,`66 வயதிலும் Exercise, Yoga\nActive வாழ்க்கையின் புதிய நம்பிக்கை`]
+ },
+ {
+  title:'Twenty Years to New Freedom — Award Journey',
+  image:'https://drive.google.com/thumbnail?id=1IJxllIQmIyX9nvd7-Ffc-xYRWFDebGdb&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1IJxllIQmIyX9nvd7-Ffc-xYRWFDebGdb&export=download&confirm=t',
+  imageName:'2025_54.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1mpa9H6G-eKQ52_kR2j7L8niOaM3qoXWr&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1E1I26d41WbW_iAhftBPZMz_bZLKcCxCM&export=download&confirm=t',
+  source:'2025_54.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter struggling with diabetes for nearly 20 years, he says meaningful results appeared within six months of joining My Health School. Consistent learning and lifestyle implementation helped him stop his medicines under guidance and experience a change he never expected. 🏆❤️\n\nHis story reminds us that health education can transform more than one condition—it can reshape an entire lifestyle. Watch and share his journey. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #diabetesmanagement #medicinefreejourney #healthylifestyle #healthawareness #healthyhabits #consistency #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`20 ஆண்டுகால Diabetes பயணம்\nஆறு மாதங்களில் மாறியது`,`Medicine நிறுத்திய முன்னேற்றம்\nLifestyle மாற்றத்தின் உறுதியான வெற்றி`]
+ },
+ {
+  title:'Chandran — From Emotion to Inspiration',
+  image:'https://drive.google.com/thumbnail?id=151-gVE_lLxNko2KNWfzysR4xv9ddFve5&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=151-gVE_lLxNko2KNWfzysR4xv9ddFve5&export=download&confirm=t',
+  imageName:'2025_63.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1MW_izHCZRmrNiMAV6jmAmMCsrAPybhiX&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1kcGiT-bUpFg1w9xRzDEShgpqRSQVPfMg&export=download&confirm=t',
+  source:'2025_63.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nChandran calls this the first award of his life. With family support, health-coach guidance, regular movement, and mindset practice, he says he moved beyond negative emotions and became an energetic example for his children and colleagues. 🏆💚\n\nHe dedicates this achievement to his wife, whose daily support helped turn learning into action. Watch his inspiring journey and share it forward. 🙌\n\n#doctorfarmer #myhealthschool #healthtransformation #mindset #familyhealth #familysupport #healthyhabits #exercise #motivation #healthjourney #wellness #lifestylechanges`,
+  videoCaptions:[`Mindset மாறியதும்\nவாழ்க்கையின் Energy மீண்டும் உயர்ந்தது`,`Exercise, Yoga வழியில்\nகுடும்பத்திற்கே Inspiration ஆன வெற்றி`]
+ },
+ {
+  title:'Malarvizhi — Energy, Awareness and Hope',
+  image:'https://drive.google.com/thumbnail?id=15azCITZPqNUemcbTH4d39HowDDFOc5_v&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=15azCITZPqNUemcbTH4d39HowDDFOc5_v&export=download&confirm=t',
+  imageName:'2025_248.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1unLyrW4RJiEY992VkwwuqT-6-SAHw1rT&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1YbPiJNmigexvh9Uut9qC_OrmgrZjnzYQ&export=download&confirm=t',
+  source:'2025_248.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nMalarvizhi says stress, diabetes, BP concerns, and constant tiredness once made rest feel like her only option. Eight months of health learning brought renewed energy, stronger food awareness, and the motivation to stay active—while inspiring healthier choices across generations in her family. 🏆🌱\n\nHer journey proves that awareness can become a lifelong gift. Watch her story and share it with someone ready to begin. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #bloodpressure #stressmanagement #nutritionawareness #activelifestyle #familyhealth #healthyhabits #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`Stress, BP கடந்த பயணம்\nEnergy நிறைந்த வாழ்க்கையாக மாறியது`,`Food awareness வளர்ந்தது\nகுடும்ப தலைமுறைக்கும் ஆரோக்கியம் பரவியது`]
+ },
+ {
+  title:'11 kg Transformation — Award Journey',
+  image:'https://drive.google.com/thumbnail?id=1PtLlRwdD7LDlo-HMegZr9FTtULhQ_z9A&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1PtLlRwdD7LDlo-HMegZr9FTtULhQ_z9A&export=download&confirm=t',
+  imageName:'C0004.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1DiEy-hiC5yv09b9DkX14I4x-YRpGizKN&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1F2cbzbnH5aMdFkwL4eAojxPT4rgLD1YZ&export=download&confirm=t',
+  source:'C0004.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nA diabetes diagnosis once made him fear a lifetime of tablets. After joining My Health School, he says his health journey changed direction—and his weight moved from 69 kg to 58 kg, an 11 kg reduction that restored confidence and happiness. 🏆💪\n\nHis award celebrates the possibility of change when knowledge becomes consistent action. Watch his journey and share it with someone who needs encouragement. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #weightlossjourney #11kgweightloss #healthyweight #healthyhabits #nutrition #consistency #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`69 kg முதல் 58 kg\nஉடல் எடையின் ஆரோக்கிய மாற்றம்`,`11 kg குறைந்ததும்\nDiabetes பயம் நம்பிக்கையாக மாறியது`]
  }
 ];
 let current=0,visible=[...posters.keys()],activeFilter='all',viewerMode='doctor';
