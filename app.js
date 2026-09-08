@@ -422,6 +422,17 @@ const doctorVideoCarousels=[
   source:'C0004.srt',
   caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nA diabetes diagnosis once made him fear a lifetime of tablets. After joining My Health School, he says his health journey changed direction—and his weight moved from 69 kg to 58 kg, an 11 kg reduction that restored confidence and happiness. 🏆💪\n\nHis award celebrates the possibility of change when knowledge becomes consistent action. Watch his journey and share it with someone who needs encouragement. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #weightlossjourney #11kgweightloss #healthyweight #healthyhabits #nutrition #consistency #healthtransformation #wellness #lifestylechanges`,
   videoCaptions:[`69 kg முதல் 58 kg\nஉடல் எடையின் ஆரோக்கிய மாற்றம்`,`11 kg குறைந்ததும்\nDiabetes பயம் நம்பிக்கையாக மாறியது`]
+ },
+ {
+  title:'Sellathurai — A Life Beyond Diabetes',
+  image:'https://drive.google.com/thumbnail?id=1NhemW_na2W5OwLm-c6hdbLuUwNzOy7rv&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1NhemW_na2W5OwLm-c6hdbLuUwNzOy7rv&export=download&confirm=t',
+  imageName:'C8945.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1fg4alISIU3C-3AmKI5x0G5kHNafy3JFx&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1p1QKQMcmhp05MvdZZrZNZnj6X8sM55_i&export=download&confirm=t',
+  source:'C8945.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter three years of living with diabetes and repeated hospital visits, Sellathurai says consistent food habits and dedicated health-coach support transformed his journey. His weight moved from 88 kg to 60 kg, and he reports being free from medicines with marked improvements in diabetes, cholesterol, and thyroid health. 🏆❤️\n\nReceiving the Doctor Farmer Award was a moment he never imagined. Watch his inspiring journey and share it with someone who needs hope. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #weightlossjourney #medicinefreejourney #cholesterol #thyroidhealth #healthyhabits #healthcoach #healthtransformation #diabetesawareness #lifestylechanges`,
+  videoCaptions:[`88 kg முதல் 60 kg\nஆரோக்கிய மாற்றத்தின் மகத்தான வெற்றி`,`Diabetes போராட்டம் முடிந்தது\nMedicine இல்லா வாழ்க்கை மலர்ந்தது`]
  }
 ];
 let current=0,visible=[...posters.keys()],activeFilter='all',viewerMode='doctor';
