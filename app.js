@@ -433,6 +433,17 @@ const doctorVideoCarousels=[
   source:'C8945.srt',
   caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nAfter three years of living with diabetes and repeated hospital visits, Sellathurai says consistent food habits and dedicated health-coach support transformed his journey. His weight moved from 88 kg to 60 kg, and he reports being free from medicines with marked improvements in diabetes, cholesterol, and thyroid health. 🏆❤️\n\nReceiving the Doctor Farmer Award was a moment he never imagined. Watch his inspiring journey and share it with someone who needs hope. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #weightlossjourney #medicinefreejourney #cholesterol #thyroidhealth #healthyhabits #healthcoach #healthtransformation #diabetesawareness #lifestylechanges`,
   videoCaptions:[`88 kg முதல் 60 kg\nஆரோக்கிய மாற்றத்தின் மகத்தான வெற்றி`,`Diabetes போராட்டம் முடிந்தது\nMedicine இல்லா வாழ்க்கை மலர்ந்தது`]
+ },
+ {
+  title:'Dharmaraj — HbA1c 7.4 to 6.1',
+  image:'https://drive.google.com/thumbnail?id=1ZPau8nGF1873jK5Sfsf4cIpygI9pzhlD&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1ZPau8nGF1873jK5Sfsf4cIpygI9pzhlD&export=download&confirm=t',
+  imageName:'00003.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1AMoz3FBfaG22HUY-YhvSnr0vchg8umVf&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1c6Nf6nsjiTnpMghxY34Aup6wXVidVUJN&export=download&confirm=t',
+  source:'00003.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nDharmaraj’s HbA1c improved from 7.4 to 6.1, while his reported fasting and post-meal blood sugar readings reached 102 and 109. 🏆 By setting a clear goal, changing his food habits, following every step consistently, and staying connected with his health coaches, he turned uncertainty into a proud award-winning moment. ❤️\n\nHe dedicates this achievement to his wife, whose support made his food transformation possible. Watch his inspiring journey and share it with someone who needs hope. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #bloodsugarcontrol #diabetesmanagement #healthyfood #healthcoach #familysupport #healthtransformation #diabetesawareness #lifestylechanges`,
+  videoCaptions:[`HbA1c 7.4 முதல் 6.1\nஒழுக்கத்தால் கிடைத்த ஆரோக்கிய வெற்றி`,`Fasting 102, Post-meal 109\nஉணவு மாற்றம் தந்த முன்னேற்றம்`]
  }
 ];
 let current=0,visible=[...posters.keys()],activeFilter='all',viewerMode='doctor';
