@@ -444,6 +444,17 @@ const doctorVideoCarousels=[
   source:'00003.srt',
   caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nDharmaraj’s HbA1c improved from 7.4 to 6.1, while his reported fasting and post-meal blood sugar readings reached 102 and 109. 🏆 By setting a clear goal, changing his food habits, following every step consistently, and staying connected with his health coaches, he turned uncertainty into a proud award-winning moment. ❤️\n\nHe dedicates this achievement to his wife, whose support made his food transformation possible. Watch his inspiring journey and share it with someone who needs hope. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #bloodsugarcontrol #diabetesmanagement #healthyfood #healthcoach #familysupport #healthtransformation #diabetesawareness #lifestylechanges`,
   videoCaptions:[`HbA1c 7.4 முதல் 6.1\nஒழுக்கத்தால் கிடைத்த ஆரோக்கிய வெற்றி`,`Fasting 102, Post-meal 109\nஉணவு மாற்றம் தந்த முன்னேற்றம்`]
+ },
+ {
+  title:'From Fatigue to Confidence — Award Journey',
+  image:'https://drive.google.com/thumbnail?id=1J3H_VB9oLfK92BsG_EcUpujQ6K898Efi&sz=w1600',
+  imageDownload:'https://drive.usercontent.google.com/download?id=1J3H_VB9oLfK92BsG_EcUpujQ6K898Efi&export=download&confirm=t',
+  imageName:'0C8A7131.JPG',
+  video:'https://drive.usercontent.google.com/download?id=1Hryy3w9a47Hqt5C11ssRsrrIub1eXJ2X&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1jEAs5byXgGwBkNvsiC5F2WEQrKeKxGcp&export=download&confirm=t',
+  source:'00014.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nConstant tiredness once made everyday work difficult. By changing her meal timing, preparing food with care, exercising consistently, and following her health coach’s guidance, she says her energy improved and her medicine use reduced. 🏆❤️\n\nReceiving the Doctor Farmer Award became a moment she never imagined possible—and a reminder that steady effort can rebuild confidence. Watch her inspiring journey and share it with someone who needs encouragement. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #energy #healthyfood #mealtiming #exercise #healthcoach #healthyhabits #healthtransformation #diabetesawareness #lifestylechanges`,
+  videoCaptions:[`தொடர் சோர்வு மறைந்தது\nEnergy நிறைந்த வாழ்க்கை மலர்ந்தது`,`Food timing மாறியது\nMedicine தேவையும் இன்று குறைந்தது`]
  }
 ];
 let current=0,visible=[...posters.keys()],activeFilter='all',viewerMode='doctor';
