@@ -455,6 +455,50 @@ const doctorVideoCarousels=[
   source:'00014.srt',
   caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nConstant tiredness once made everyday work difficult. By changing her meal timing, preparing food with care, exercising consistently, and following her health coach’s guidance, she says her energy improved and her medicine use reduced. 🏆❤️\n\nReceiving the Doctor Farmer Award became a moment she never imagined possible—and a reminder that steady effort can rebuild confidence. Watch her inspiring journey and share it with someone who needs encouragement. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #energy #healthyfood #mealtiming #exercise #healthcoach #healthyhabits #healthtransformation #diabetesawareness #lifestylechanges`,
   videoCaptions:[`தொடர் சோர்வு மறைந்தது\nEnergy நிறைந்த வாழ்க்கை மலர்ந்தது`,`Food timing மாறியது\nMedicine தேவையும் இன்று குறைந்தது`]
+ },
+ {
+  title:'Meena Krishnakumar — Choose a Healthy Life',
+  image:'https://drive.google.com/thumbnail?id=1ll__cYcXwyfYB9ELGElYOo_5ozvcAOVP&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1ll__cYcXwyfYB9ELGElYOo_5ozvcAOVP&sz=w1600',
+  imageName:'C8983-cover.jpg',
+  video:'https://drive.usercontent.google.com/download?id=1ll__cYcXwyfYB9ELGElYOo_5ozvcAOVP&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1raJKtETdPtkyJW9xiizIyR9jttO6j__0&export=download&confirm=t',
+  source:'C8983.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nMeena Krishnakumar describes the Doctor Farmer event as an inspiring learning experience filled with practical health awareness. She believes agriculture, family support, and staying away from junk food are essential foundations for a healthier life. 🌱❤️\n\nHer message is simple: move past confusion, begin learning, and give your health the care it deserves. Watch her experience and share it with someone ready to make a positive change. 🙌\n\n#doctorfarmer #myhealthschool #healthawareness #healthyfood #junkfoodfree #agriculture #familyhealth #nutritioneducation #healthyhabits #healthylifestyle #wellness #lifestylechanges`,
+  videoCaptions:[`Junk food தவிர்த்தால்\nHealthy life இன்று தொடங்கும்`,`Health awareness வளர்ந்தால்\nகுடும்ப ஆரோக்கியம் நிச்சயம் மலரும்`]
+ },
+ {
+  title:'Kumudha — Health Begins With Learning',
+  image:'https://drive.google.com/thumbnail?id=1Nr8NZoiAXRZR_wAXyv66Q2pNIUOJ-3kL&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1Nr8NZoiAXRZR_wAXyv66Q2pNIUOJ-3kL&sz=w1600',
+  imageName:'C8984-cover.jpg',
+  video:'https://drive.usercontent.google.com/download?id=1Nr8NZoiAXRZR_wAXyv66Q2pNIUOJ-3kL&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1jBtinTjD2-ZOkMLDlCvdNbLoh0YCadzl&export=download&confirm=t',
+  source:'C8984.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nFor Kumudha, the DETOX challenge became a favourite part of learning how everyday choices shape health. She says the simple Tamil explanations helped her understand what she truly needed—and encouraged several relatives to begin their own health journeys. 🌿❤️\n\nWhen one person learns, an entire family can change. Watch her experience and share it with someone who believes better health begins at home. 🙌\n\n#doctorfarmer #myhealthschool #detox #healthlearning #familyhealth #healthyfood #nutritioneducation #healthyhabits #healthawareness #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`DETOX challenge கற்றுத்தந்தது\nஆரோக்கிய வாழ்வின் புதிய பாதை`,`ஒருவர் கற்ற மாற்றம்\nகுடும்பம் முழுவதும் இன்று பரவியது`]
+ },
+ {
+  title:'Bhaskar — HbA1c 9.5 to 6.7',
+  image:'https://drive.google.com/thumbnail?id=1ecusfZG4w6oNoP-CR4O7QrNitLtZPEc5&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1ecusfZG4w6oNoP-CR4O7QrNitLtZPEc5&sz=w1600',
+  imageName:'C8985-cover.jpg',
+  video:'https://drive.usercontent.google.com/download?id=1ecusfZG4w6oNoP-CR4O7QrNitLtZPEc5&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=1MkeOF-ea0BS0Jrf9XFisTnLx-LK9m0Dl&export=download&confirm=t',
+  source:'C8985.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nDespite a demanding work schedule, Bhaskar says he stayed committed to his health journey and saw his HbA1c improve from 9.5 to 6.7. He also describes overcoming stress and gaining the confidence to keep following the path he started. 💪❤️\n\nHis progress is a reminder that consistency can create meaningful change even in a busy life. Watch his story and share it with someone who needs motivation. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #HbA1c #bloodsugarcontrol #stressmanagement #healthyhabits #consistency #healthjourney #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`HbA1c 9.5 முதல் 6.7\nConsistency தந்த ஆரோக்கிய வெற்றி`,`Busy schedule கடந்தும்\nHealth goal இன்று வென்றது`]
+ },
+ {
+  title:'A Family Transformed Together',
+  image:'https://drive.google.com/thumbnail?id=16-sfGoFv50UCT_VoJCd6wT9P7S3heNMz&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=16-sfGoFv50UCT_VoJCd6wT9P7S3heNMz&sz=w1600',
+  imageName:'C8987-cover.jpg',
+  video:'https://drive.usercontent.google.com/download?id=16-sfGoFv50UCT_VoJCd6wT9P7S3heNMz&export=download&confirm=t',
+  srt:'https://drive.usercontent.google.com/download?id=12BMp16hK6cdju6moCmokuzQUeeihsjBd&export=download&confirm=t',
+  source:'C8987.srt',
+  caption:`For appointments:\n+91 89259 54625\n+91 72004 24271\n\nShe began with a reported sugar level of 9.7 and says consistent learning brought substantial weight reduction, relief from recurring knee discomfort, and renewed confidence in her health. Her food habits then inspired her husband, sons, and daughters-in-law to make healthier choices too. 🌱❤️\n\nHer journey shows how one committed change can influence an entire family. Watch and share it with someone ready to begin. 🙌\n\n#doctorfarmer #myhealthschool #diabetes #weightlossjourney #jointhealth #familyhealth #healthyfood #healthyhabits #healthawareness #healthtransformation #wellness #lifestylechanges`,
+  videoCaptions:[`Weight குறைந்து Knee pain\nஇன்று முழுமையாக மறைந்தது`,`ஒருவரின் Food மாற்றம்\nகுடும்ப ஆரோக்கியமாக இன்று வளர்ந்தது`]
  }
 ];
 let current=0,visible=[...posters.keys()],activeFilter='all',viewerMode='doctor';
