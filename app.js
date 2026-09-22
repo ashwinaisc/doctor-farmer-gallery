@@ -215,7 +215,9 @@ const doctorHashtags='#doctorfarmer #myhealthschool #Consistency #Progress #Grow
 const doctorVideoCarousels=[
  {
   title:'Dr. N. Rajagopal — Award Journey',
-  image:'assets/video-carousel/B019C009 250907XY.JPG?v=20260825-3',
+  image:'https://drive.google.com/thumbnail?id=1pKnHvkqao33p4poolN8i0O7MKatlk5U-&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1pKnHvkqao33p4poolN8i0O7MKatlk5U-&sz=w1600',
+  imageName:'B019C009-250907XY-cover.jpg',
   video:'https://drive.usercontent.google.com/download?id=1pKnHvkqao33p4poolN8i0O7MKatlk5U-&export=download&confirm=t',
   srt:'assets/video-carousel/B019C009 250907XY.srt?v=20260828-01',
   source:'B019C009 250907XY.srt',
@@ -224,7 +226,9 @@ const doctorVideoCarousels=[
  },
  {
   title:'A Healthier Family — Award Journey',
-  image:'assets/video-carousel/C00004.JPG?v=20260825-3',
+  image:'https://drive.google.com/thumbnail?id=1aRhv3AofcfDAgF_IvFz-XChXpoe1Oqgh&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1aRhv3AofcfDAgF_IvFz-XChXpoe1Oqgh&sz=w1600',
+  imageName:'C00004-cover.jpg',
   video:'https://drive.usercontent.google.com/download?id=1aRhv3AofcfDAgF_IvFz-XChXpoe1Oqgh&export=download&confirm=t',
   srt:'assets/video-carousel/C00004.srt?v=20260828-01',
   source:'C00004.srt',
@@ -233,7 +237,9 @@ const doctorVideoCarousels=[
  },
  {
   title:'Gopalakrishnan — Three-Month Transformation',
-  image:'assets/video-carousel/C00007.JPG?v=20260825-3',
+  image:'https://drive.google.com/thumbnail?id=1pU99i_6zm6Sv40RnmLr3BpthSLVj8TnE&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1pU99i_6zm6Sv40RnmLr3BpthSLVj8TnE&sz=w1600',
+  imageName:'C00007-cover.jpg',
   video:'https://drive.usercontent.google.com/download?id=1pU99i_6zm6Sv40RnmLr3BpthSLVj8TnE&export=download&confirm=t',
   srt:'assets/video-carousel/C00007.srt?v=20260828-01',
   source:'C00007.srt',
@@ -242,7 +248,9 @@ const doctorVideoCarousels=[
  },
  {
   title:'From Insulin to Hope — Award Journey',
-  image:'assets/video-carousel/C00150.JPG?v=20260825-3',
+  image:'https://drive.google.com/thumbnail?id=1K7jWiG-OPCU2-8vNsIbmIiJxXyHKPyM9&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1K7jWiG-OPCU2-8vNsIbmIiJxXyHKPyM9&sz=w1600',
+  imageName:'C00150-cover.jpg',
   video:'https://drive.usercontent.google.com/download?id=1K7jWiG-OPCU2-8vNsIbmIiJxXyHKPyM9&export=download&confirm=t',
   srt:'assets/video-carousel/C00150.srt?v=20260828-01',
   source:'C00150.srt',
@@ -251,7 +259,9 @@ const doctorVideoCarousels=[
  },
  {
   title:'Food, Freedom and a New Life',
-  image:'assets/video-carousel/P1012693.JPG?v=20260825-3',
+  image:'https://drive.google.com/thumbnail?id=1Rea26pzWFwXi_bIxK5q2YJZkJXQmD1fF&sz=w1600',
+  imageDownload:'https://drive.google.com/thumbnail?id=1Rea26pzWFwXi_bIxK5q2YJZkJXQmD1fF&sz=w1600',
+  imageName:'P1012693-cover.jpg',
   video:'https://drive.usercontent.google.com/download?id=1Rea26pzWFwXi_bIxK5q2YJZkJXQmD1fF&export=download&confirm=t',
   srt:'assets/video-carousel/P1012693.srt?v=20260828-01',
   source:'P1012693.srt',
